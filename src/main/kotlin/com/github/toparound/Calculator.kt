@@ -1,3 +1,4 @@
+package com.github.toparound
 import java.lang.NumberFormatException
 
 class Calculator() {
